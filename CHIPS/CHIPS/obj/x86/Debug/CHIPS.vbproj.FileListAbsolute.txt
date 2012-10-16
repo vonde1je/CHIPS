@@ -1,0 +1,11 @@
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\bin\Debug\CHIPS.exe
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\bin\Debug\CHIPS.pdb
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\bin\Debug\CHIPS.xml
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\CHIPS.Resources.resources
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\CHIPS.exe
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\CHIPS.xml
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\CHIPS.pdb
+U:\ProjectFolder\CHIPS\CHIPS\CHIPS\obj\x86\Debug\CHIPS.Form1.resources
