@@ -33,7 +33,7 @@ Partial Class Form1
         Me.MinimizeBox = False
         Me.Name = "Form1"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
-        Me.Text = "Form1"
+        Me.Text = "Test1"
         Me.ResumeLayout(False)
 
     End Sub
